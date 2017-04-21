@@ -1,6 +1,6 @@
 {
   "name": "@cypress/core-coffee-script",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Conditionally requires coffee-script and standardizes the version.",
   "main": "index.js",
   "scripts": {
