@@ -20,6 +20,6 @@
     "coffee-script": "1.12.5"
   },
   "devDependencies": {
-    "@cypress/core-releaser": "^0.1.8"
+    "@cypress/core-releaser": "0.1.9"
   }
 }
