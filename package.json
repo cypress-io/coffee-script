@@ -1,0 +1,25 @@
+{
+  "name": "@cypress/core-coffee-script",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "releaser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cypress-io/cypress-core-coffee-script.git"
+  },
+  "author": "Brian Mann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cypress-io/cypress-core-coffee-script/issues"
+  },
+  "homepage": "https://github.com/cypress-io/cypress-core-coffee-script#readme",
+  "dependencies": {
+    "coffee-script": "1.12.5"
+  },
+  "devDependencies": {
+    "@cypress/core-releaser": "^0.1.8"
+  }
+}
